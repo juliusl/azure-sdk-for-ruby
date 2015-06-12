@@ -1,3 +1,5 @@
+# Gem: juliusl-azure-sdk-for-ruby 
+This is a fork of the official azure sdk for ruby for development purposes. 
 
 # Microsoft Azure SDK for Ruby
 [![Build Status](https://travis-ci.org/Azure/azure-sdk-for-ruby.png?branch=dev)](https://travis-ci.org/Azure/azure-sdk-for-ruby) [![Code Climate](https://codeclimate.com/github/Azure/azure-sdk-for-ruby/badges/gpa.svg)](https://codeclimate.com/github/Azure/azure-sdk-for-ruby)
